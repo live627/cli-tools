@@ -1,0 +1,6 @@
+{
+    "name": "live627/cli-tools",
+    "require": {
+        "php": ">=8.1"
+    },
+}
